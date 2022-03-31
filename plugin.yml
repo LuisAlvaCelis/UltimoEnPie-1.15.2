@@ -1,0 +1,10 @@
+name: UltimoEnPie-1.15.2
+version: 1.0
+author: LuisAlvaCelis
+main: me.main.MainClass
+
+commands:
+  main:
+    description: Comando principal del plugin.
+  gettime:
+    description: Obtiene el timpo que ha jugado el jugador.

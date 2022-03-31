@@ -1,0 +1,158 @@
+#
+#
+#   UltimoEnPie 1.15.2
+#       Version 1.0
+#       By: ThanatosPlayer
+#
+#creeper:
+#      health: 50.0D
+#      speedmultiplier: 4
+#      damage: 20.0D
+#
+wl:
+  status: true
+Game:
+  status: false
+  evoker-drops: true
+  custom-mobs:
+    custom-zombie:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-skeleton:
+      damage: -1
+      speed: -1
+      health: -1
+      arrows-rate: -1
+    custom-spider:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-creeper:
+      damage: -1
+      speed: -1
+      speed-explosion: -1
+      radius: -1
+      health: -1
+    custom-changed-creeper:
+      damage: -1
+      speed: -1
+      speed-explosion: -1
+      radius: -1
+      health: -1
+    custom-enderman:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-wolf:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-cave-spider:
+      damage: -1
+      speed: -1
+      health: -1
+      poison: null
+    custom-slime:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-silverfish:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-zombie-pigman:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-ghast:
+      damage: -1
+      speed: -1
+      health: -1
+      fire-rate: -1
+    custom-magma-cube:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-blaze:
+      damage: -1
+      speed: -1
+      health: -1
+      fire-rate: -1
+    custom-iron-golem:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-ender-dragon:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-drowned:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-evoker:
+      damage: -1
+      speed: -1
+      health: -1
+    custom-vex:
+      damage: -1
+      speed: -1
+      health: -1
+  
+#Config
+Config:
+  spawnsettings:
+    status: false
+    world: world
+    x: 0
+    y: 0
+    z: 0
+    yaw: 0
+    pitch: 0
+Death:
+  message:
+    entity:
+    - 'una entidad desconocida :v'
+    block_explosion:
+    - 'un bloque explosivo.'
+    contact:
+    - 'pincharse y obligo a su propia piel a hacerse trizas en millones de piezas.'
+    other: 
+    - 'la imaginacion.'
+    drowning: 
+    - 'no respirar.'
+    entity_explosion: 
+    - 'un creeper'
+    fall: 
+    - 'estamparce contra el suelo, olvido abrir sus alas :v'
+    falling_block: 
+    - 'un bloque flotante :v'
+    fire:
+    - 'descubrir el fuego :v'
+    fire_tick:
+    - 'incendiarse'
+    lava:
+    - 'nadar en lava'
+    lightning:
+    - 'truego de Zeus'
+    magic:
+    - 'drogas m�gicas'
+    melting:
+    - 'derretirse'
+    poison:
+    - 'sobredosis'
+    projectile:
+    - 'un proyectil'
+    starvation:
+    - 'no comer'
+    suffocation:
+    - 'sofocarse v:'
+    suicide:
+    - 'depresion :('
+    thorns:
+    - 'pincharse contra captus'
+    void:
+    - 'quedarse en el vacio'
+    wither:
+    - 'jugar con el wither'
